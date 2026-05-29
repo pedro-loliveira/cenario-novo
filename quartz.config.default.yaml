@@ -136,7 +136,7 @@ plugins:
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: left
+      position: right
       priority: 20
       group: toolbar
       groupOptions:
