@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Teste de Titulo
+  pageTitle: Alterar Depois # Titulo da Barra lateral
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
