@@ -21,7 +21,7 @@ A magia tornou-se rara, cara e temida. Poucos ainda possuem acesso real ao estud
 
 Sem acesso amplo à magia, a tecnologia passou a ocupar seu lugar.
 
-A sociedade evoluiu para uma mistura de engenharia industrial e biotecnologia baseada em monstros, um estilo frequentemente chamado de **[Monsterpunk|Monsterpunk]**. Motores, armas, próteses, dirigíveis e máquinas são alimentados por Núcleos Monstruosos, órgãos mágicos cristalizados deixados por criaturas após a morte.
+A sociedade evoluiu para uma mistura de engenharia industrial e biotecnologia baseada em monstros, um estilo frequentemente chamado de [[Monsterpunk]]. Motores, armas, próteses, dirigíveis e máquinas são alimentados por Núcleos Monstruosos, órgãos mágicos cristalizados deixados por criaturas após a morte.
 
 Esses núcleos se tornaram a principal fonte de energia do mundo moderno.
 
