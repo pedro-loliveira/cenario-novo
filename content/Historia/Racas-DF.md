@@ -67,7 +67,7 @@ Com o abandono de diversas cidades subterrâneas anãs, tribos monstruosas come�
 
 Diferente das civilizações da superfície, seus reinos dependem pouco de magia ou tecnologia avançada.
 
-São sociedades violentas, territoriais e extremamente resistentes, raramente participando das rotas comerciais entre ilhas.
+São sociedades violentas, territoriais e extremamente resistentes, raramente participando das rotas comerciais entre Fragmentos.
 
 ---
 

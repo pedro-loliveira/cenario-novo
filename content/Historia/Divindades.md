@@ -1,0 +1,4 @@
+---
+title: Divindades de Sundera
+---
+A relação de cada raça com divindades e apenas por meio de preces e orações. Pois nao verdadeiramente alguma pessoa ja viu uma divindade maior com todos rogam, mas existem divindades inferiores, seres que viveram tanto tempo e tiveram seu nome em tantas historias que ficaram marcadas, como um exemplo de Hoo's, um elfo que ja viveu milhares de anos peregrinando por ai, todos acabaram o conhecendo por muitos anos, entao foi marcado como uma dinvindade inferior e clamado como Hoo's dos Caminhos. Adorado principalmente por nomades  e viajantes reclusos. Porem ele e alguem fisico, nao incorporeo.

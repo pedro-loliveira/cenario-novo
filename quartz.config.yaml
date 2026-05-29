@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Alterar Depois # Titulo da Barra lateral
+  pageTitle: "Sundera" # Titulo da Barra lateral
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
