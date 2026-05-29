@@ -1,5 +1,6 @@
-# Monstros e Recursos
-
+---
+title: Monstros e Recursos
+---
 A Fratura alterou permanentemente toda forma de vida.
 
 Animais comuns tornaram-se raros, enquanto criaturas monstruosas passaram a dominar diversos ecossistemas. Em muitas regiões, monstros são mais abundantes do que fauna natural.
